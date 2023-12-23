@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nagesh Kharat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw3pv-R_viaVF0aXKVPClsS_&ust=1702132927321000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDAjp6KgIMDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshkharat&label=Profile%20views&color=0e75b6&style=flat" alt="nageshkharat" /> </p>
 
