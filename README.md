@@ -1,4 +1,4 @@
-![logo](https://github.com/nageshkharat/nageshkharat/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1oPlul8rovTKJmUefw-1lk&ust=1703424592758000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDQ1KDVpYMDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Nagesh Kharat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
