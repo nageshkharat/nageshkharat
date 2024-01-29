@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshkharat&label=Profile%20views&color=0e75b6&style=flat" alt="nageshkharat" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nageshkharat.github.io/PersonalPortfolio.github.io/](https://nageshkharat.github.io/PersonalPortfolio.github.io/)
+- 👨‍💻 My Portfolio Website [https://nageshkharat.github.io/Portfolio.app/](https://nageshkharat.github.io/Portfolio.app/)
 
 - 📫 How to reach me **nageshkharat1910@gmail.com**
 
