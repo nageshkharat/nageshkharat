@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nageshkharat1910@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G1J9x1MWvZzVW-P1nDDB7SXuX8-hAuKZ/view?usp=drivesdk](https://drive.google.com/file/d/1G1J9x1MWvZzVW-P1nDDB7SXuX8-hAuKZ/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/126xov1jNvmLO4s67SX5bjZviDqqV3FN2/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
