@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshkharat&label=Profile%20views&color=0e75b6&style=flat" alt="nageshkharat" /> </p>
 
-- 👨‍💻 My Portfolio Website [Portfolio Website](https://portfolio-app-navy-seven.vercel.app/)
+- 👨‍💻 My Portfolio Website [Portfolio Website](https://portfolio-orpin-gamma-53.vercel.app/)
 
-- 📫 How to reach me **nageshkharat1910@gmail.com**
+- 📫 How to reach me **nagesh.skharat@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/126xov1jNvmLO4s67SX5bjZviDqqV3FN2/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1kpcbljfMAmdf7Bxa-tC7ZB722Tse5hnk/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
