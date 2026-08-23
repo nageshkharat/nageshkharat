@@ -1,29 +1,63 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nagesh Kharat</h1> 
-<h3 align="center">A passionate Full Stack Developer from India!</h3>
+# Nagesh Kharat
 
+### AI Engineer · Agentic Systems · Voice AI · Intelligent Automation
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshkharat&label=Profile%20views&color=0e75b6&style=flat" alt="nageshkharat" /> </p>
-
-- 👨‍💻 My Portfolio Website [Portfolio Website](https://portfolio-orpin-gamma-53.vercel.app/)
-
-- 📫 How to reach me **nagesh.skharat@gmail.com**
-
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1kpcbljfMAmdf7Bxa-tC7ZB722Tse5hnk/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/nagesh_kharat_?t=dzvpqudaevippaguhfnmaa&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nagesh_kharat_?t=dzvpqudaevippaguhfnmaa&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagesh-kharat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagesh-kharat" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/nagesh.kharat1?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/nagesh.kharat1?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nagesh_kharat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nagesh_kharat/" height="30" width="40" /></a>
+<p>
+Building AI systems that <b>reason, use tools, remember context, and take action.</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/nagesh-kharat">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-orpin-gamma-53.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:nagesh.skharat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+do+more+than+generate+text.;Designing+agents+that+reason%2C+use+tools%2C+and+take+action.;Exploring+Voice+AI%2C+Agentic+Systems+%26+Intelligent+Automation.;Turning+AI+capabilities+into+real+products."
+  alt="Typing SVG"
+/>
 
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nageshkharat&show_icons=true&locale=en" alt="nageshkharat" /></p>
+---
 
+## `whoami`
 
+```python
+class NageshKharat:
+
+    role = "AI Engineer"
+
+    building = [
+        "Agentic AI Systems",
+        "Voice AI",
+        "LLM Applications",
+        "AI Automation",
+        "Context Engineering",
+        "Tool-Using Agents"
+    ]
+
+    engineering = [
+        "Python",
+        "APIs",
+        "Backend Systems",
+        "JavaScript",
+        "React",
+        "SQL"
+    ]
+
+    philosophy = """
+    AI is not just the model.
+
+    The real engineering happens in the system:
+    context, memory, tools, workflows,
+    reliability, and the actions an AI can take.
+    """
